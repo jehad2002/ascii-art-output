@@ -87,4 +87,4 @@ func main() {
 	fmt.Println("Check the result file:", outputFileName)
 }
 
-go run . --output=banner.txt --text="hello" --font=3
+// go run . --output=banner.txt --text="hello" --font=3
